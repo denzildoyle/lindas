@@ -74,7 +74,7 @@ body, html{
 
 .content-area{
     position: absolute;
-    top: 45%;
+    top: 40%;
     left: 50%;
     width: 600px;
     height: 152px;
@@ -88,11 +88,12 @@ body, html{
 }
 .menu{
     background-color: #F2F0EB;
+    padding-bottom: 90px;
+    padding-top: 70px;
 }
 .menu h1{
     text-align: center;
     color: #AD2A24;
-    margin-top: 70px;
     margin-bottom: 50px;
     font-family: Helvetica, Arial, sans-serif;
     font-size: 36px;
