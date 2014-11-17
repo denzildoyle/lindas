@@ -31,6 +31,17 @@ body, html{
     text-align: center;
     text-shadow: 0px 2px 4px rgba(0,0,0,0.20);
 }
+
+.content-area{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 600px;
+    height: 152px;
+    margin-top: -76px;
+    margin-left: -300px;
+}
+
 .jumbotron h1 span.years{
     color: #EFA03E;
 }
