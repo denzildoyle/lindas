@@ -8,7 +8,7 @@
 
 body, html{
     width: 100%;
-    height: 90%;
+    height: 100%;
 }
 
 .top, .bottom, .right, .left{
@@ -60,6 +60,7 @@ body, html{
     background: url('../img/Lindas-bread-hero.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    position: fixed;
 }
 
 .jumbotron h1{
@@ -90,6 +91,9 @@ body, html{
     background-color: #F2F0EB;
     padding-bottom: 90px;
     padding-top: 70px;
+    width: 100%;
+    position: relative;
+    top: 90%;
 }
 .menu h1{
     text-align: center;
